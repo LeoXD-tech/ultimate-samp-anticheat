@@ -3,6 +3,7 @@
 [![SA-MP](https://img.shields.io/badge/SA--MP-0.3.7--R2-blue.svg)](https://www.sa-mp.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg)]()
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da.svg)](https://discord.gg/zesXpXVXdB)
 [![Author](https://img.shields.io/badge/Author-LeoXD%20SAMP%2B%2B-orange.svg)]()
 
 > **Advanced Anti-Cheat System untuk SA-MP Server dengan File-Based Logging seperti Fropile Gamemode**
@@ -182,8 +183,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 **AUTHOR**
 
 **LeoXD SAMP++**
-- 🌐 GitHub: [@LeoXD-tech](https://github.com/LeoXD-tech)
-- 📧 Email: leoxd@example.com
+- 🌐 GitHub: [@yourusername](https://github.com/LeoXD-tech)
+- 📧 Email: your.email@example.com
 - 🎮 SA-MP: LeoXD_SAMP
 
 ## 🙏 **CREDITS**
@@ -198,6 +199,7 @@ Jika project ini membantu Anda, berikan ⭐ star di repository ini!
 - 🐛 **Bug Reports**: [Issues](https://github.com/LeoXD-tech/ultimate-samp-anticheat/issues)
 - 💡 **Feature Requests**: [Issues](https://github.com/LeoXD-tech/ultimate-samp-anticheat/issues)
 - 💬 **Discussions**: [Discussions](https://github.com/LeoXD-tech/ultimate-samp-anticheat/discussions)
+- 💬 **Join Discord**: [Discord Server](https://discord.gg/zesXpXVXdB)
 
 ---
 
