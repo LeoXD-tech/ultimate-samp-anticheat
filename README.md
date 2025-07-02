@@ -182,8 +182,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 **AUTHOR**
 
 **LeoXD SAMP++**
-- 🌐 GitHub: [@yourusername](https://github.com/LeoXD-tech)
-- 📧 Email: your.email@example.com
+- 🌐 GitHub: [@LeoXD-tech](https://github.com/LeoXD-tech)
+- 📧 Email: leoxd@example.com
 - 🎮 SA-MP: LeoXD_SAMP
 
 ## 🙏 **CREDITS**
